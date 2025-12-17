@@ -17,7 +17,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Neeraj Singh Negi</a> through 
+      <a href="#">Neeraj Singh Negi</a> through 
       <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
