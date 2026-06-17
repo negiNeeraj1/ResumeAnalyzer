@@ -189,7 +189,7 @@ def run():
     choice = st.sidebar.selectbox("", activities)
     
     st.sidebar.markdown("---")
-    link = '<div style="padding: 1rem 0; text-align: center;"><b>Built with 🤍 by <a href="https://dnoobnerd.netlify.app/" style="text-decoration: none; color: #4A90E2; font-weight: 500;">Rakshit, Rakshita, Manoj</a></b></div>' 
+    link = '<div style="padding: 1rem 0; text-align: center;"><b>Built with 🤍 by <a href="https://dnoobnerd.netlify.app/" style="text-decoration: none; color: #4A90E2; font-weight: 500;">Neeraj Singh Negi</a></b></div>' 
     st.sidebar.markdown(link, unsafe_allow_html=True)
     st.sidebar.markdown('''
         <!-- site visitors -->

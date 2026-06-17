@@ -318,3 +318,5 @@ JOB_FIELDS = [
 **Model Location**: `./App/models/job_field_classifier.pkl`
 
 
+
+
