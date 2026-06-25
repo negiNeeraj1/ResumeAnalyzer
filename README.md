@@ -17,8 +17,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="#">Neeraj Singh Negi</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
+      <a href="#">Neeraj Singh Negi</a>
      </small>
   </p>
  
